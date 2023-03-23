@@ -1,0 +1,346 @@
+year,circuitRef,name_y,grand_prix,fastestLapSpeed,driverId,count
+2004,albert_park,Albert Park Grand Prix Circuit,Australia,226.933,30,17
+2005,albert_park,Albert Park Grand Prix Circuit,Australia,222.807,4,17
+2006,albert_park,Albert Park Grand Prix Circuit,Australia,221.869,8,17
+2007,albert_park,Albert Park Grand Prix Circuit,Australia,223.978,8,17
+2008,albert_park,Albert Park Grand Prix Circuit,Australia,218.385,5,17
+2009,albert_park,Albert Park Grand Prix Circuit,Australia,217.668,3,17
+2010,albert_park,Albert Park Grand Prix Circuit,Australia,216.061,17,17
+2011,albert_park,Albert Park Grand Prix Circuit,Australia,214.631,13,17
+2012,albert_park,Albert Park Grand Prix Circuit,Australia,214.053,18,17
+2013,albert_park,Albert Park Grand Prix Circuit,Australia,213.845,8,17
+2014,albert_park,Albert Park Grand Prix Circuit,Australia,206.436,3,17
+2015,albert_park,Albert Park Grand Prix Circuit,Australia,209.915,1,17
+2016,albert_park,Albert Park Grand Prix Circuit,Australia,214.51,817,17
+2017,albert_park,Albert Park Grand Prix Circuit,Australia,220.605,8,17
+2018,albert_park,Albert Park Grand Prix Circuit,Australia,222.128,817,17
+2019,albert_park,Albert Park Grand Prix Circuit,Australia,223.075,822,17
+2022,albert_park,Albert Park Grand Prix Circuit,Australia,236.74,844,17
+2004,bahrain,Bahrain International Circuit,Bahrain,216.074,30,18
+2005,bahrain,Bahrain International Circuit,Bahrain,213.054,37,18
+2006,bahrain,Bahrain International Circuit,Bahrain,210.838,3,18
+2007,bahrain,Bahrain International Circuit,Bahrain,207.12,13,18
+2008,bahrain,Bahrain International Circuit,Bahrain,209.062,5,18
+2009,bahrain,Bahrain International Circuit,Bahrain,206.049,15,18
+2010,bahrain,Bahrain International Circuit,Bahrain,191.706,4,18
+2012,bahrain,Bahrain International Circuit,Bahrain,202.151,20,18
+2013,bahrain,Bahrain International Circuit,Bahrain,200.938,20,18
+2014,bahrain,Bahrain International Circuit,Bahrain,200.816,3,18
+2015,bahrain,Bahrain International Circuit,Bahrain,202.294,8,18
+2016,bahrain,Bahrain International Circuit,Bahrain,206.21,3,18
+2017,bahrain,Bahrain International Circuit,Bahrain,209.952,1,18
+2018,bahrain,Bahrain International Circuit,Bahrain,207.842,822,18
+2019,bahrain,Bahrain International Circuit,Bahrain,208.575,844,18
+2020,bahrain,Bahrain International Circuit,Bahrain,230.214,847,18
+2021,bahrain,Bahrain International Circuit,Bahrain,211.566,822,18
+2022,bahrain,Bahrain International Circuit,Bahrain,206.018,844,18
+2004,spa,Circuit de Spa-Francorchamps,Belgium,238.931,8,17
+2005,spa,Circuit de Spa-Francorchamps,Belgium,225.329,23,17
+2007,spa,Circuit de Spa-Francorchamps,Belgium,233.388,13,17
+2008,spa,Circuit de Spa-Francorchamps,Belgium,233.618,8,17
+2009,spa,Circuit de Spa-Francorchamps,Belgium,235.07,20,17
+2010,spa,Circuit de Spa-Francorchamps,Belgium,231.178,1,17
+2011,spa,Circuit de Spa-Francorchamps,Belgium,229.465,17,17
+2012,spa,Circuit de Spa-Francorchamps,Belgium,223.488,811,17
+2013,spa,Circuit de Spa-Francorchamps,Belgium,227.657,20,17
+2014,spa,Circuit de Spa-Francorchamps,Belgium,228.161,3,17
+2015,spa,Circuit de Spa-Francorchamps,Belgium,224.295,3,17
+2016,spa,Circuit de Spa-Francorchamps,Belgium,225.969,1,17
+2017,spa,Circuit de Spa-Francorchamps,Belgium,236.583,20,17
+2018,spa,Circuit de Spa-Francorchamps,Belgium,237.231,822,17
+2019,spa,Circuit de Spa-Francorchamps,Belgium,236.957,20,17
+2020,spa,Circuit de Spa-Francorchamps,Belgium,234.589,817,17
+2022,spa,Circuit de Spa-Francorchamps,Belgium,230.575,830,17
+2004,interlagos,Autódromo José Carlos Pace,Brazil,217.038,31,18
+2005,interlagos,Autódromo José Carlos Pace,Brazil,214.651,8,18
+2006,interlagos,Autódromo José Carlos Pace,Brazil,214.966,30,18
+2007,interlagos,Autódromo José Carlos Pace,Brazil,214.126,8,18
+2008,interlagos,Autódromo José Carlos Pace,Brazil,210.377,13,18
+2009,interlagos,Autódromo José Carlos Pace,Brazil,210.386,17,18
+2010,interlagos,Autódromo José Carlos Pace,Brazil,210.049,1,18
+2011,interlagos,Autódromo José Carlos Pace,Brazil,205.942,17,18
+2012,interlagos,Autódromo José Carlos Pace,Brazil,198.701,1,18
+2013,interlagos,Autódromo José Carlos Pace,Brazil,205.636,17,18
+2014,interlagos,Autódromo José Carlos Pace,Brazil,210.895,1,18
+2015,interlagos,Autódromo José Carlos Pace,Brazil,207.296,1,18
+2016,interlagos,Autódromo José Carlos Pace,Brazil,181.846,830,18
+2017,interlagos,Autódromo José Carlos Pace,Brazil,218.349,830,18
+2018,interlagos,Autódromo José Carlos Pace,Brazil,219.909,822,18
+2019,interlagos,Autódromo José Carlos Pace,Brazil,219.417,822,18
+2021,interlagos,Autódromo José Carlos Pace,Brazil,218.453,815,18
+2022,interlagos,Autódromo José Carlos Pace,Brazil,210.237,847,18
+2004,villeneuve,Circuit Gilles Villeneuve,Canada,213.246,22,16
+2005,villeneuve,Circuit Gilles Villeneuve,Canada,211.061,8,16
+2006,villeneuve,Circuit Gilles Villeneuve,Canada,207.006,8,16
+2007,villeneuve,Circuit Gilles Villeneuve,Canada,205.58,4,16
+2008,villeneuve,Circuit Gilles Villeneuve,Canada,202.871,8,16
+2010,villeneuve,Circuit Gilles Villeneuve,Canada,203.965,9,16
+2011,villeneuve,Circuit Gilles Villeneuve,Canada,204.007,18,16
+2012,villeneuve,Circuit Gilles Villeneuve,Canada,207.249,20,16
+2013,villeneuve,Circuit Gilles Villeneuve,Canada,206.08,17,16
+2014,villeneuve,Circuit Gilles Villeneuve,Canada,199.984,13,16
+2015,villeneuve,Circuit Gilles Villeneuve,Canada,203.925,8,16
+2016,villeneuve,Circuit Gilles Villeneuve,Canada,207.669,3,16
+2017,villeneuve,Circuit Gilles Villeneuve,Canada,210.588,1,16
+2018,villeneuve,Circuit Gilles Villeneuve,Canada,212.547,830,16
+2019,villeneuve,Circuit Gilles Villeneuve,Canada,214.833,822,16
+2022,villeneuve,Circuit Gilles Villeneuve,Canada,207.258,832,16
+2004,shanghai,Shanghai International Circuit,China,212.749,30,16
+2005,shanghai,Shanghai International Circuit,China,210.458,8,16
+2006,shanghai,Shanghai International Circuit,China,201.09,4,16
+2007,shanghai,Shanghai International Circuit,China,201.362,13,16
+2008,shanghai,Shanghai International Circuit,China,203.722,1,16
+2009,shanghai,Shanghai International Circuit,China,174.289,22,16
+2010,shanghai,Shanghai International Circuit,China,192.273,1,16
+2011,shanghai,Shanghai International Circuit,China,198.232,17,16
+2012,shanghai,Shanghai International Circuit,China,196.314,155,16
+2013,shanghai,Shanghai International Circuit,China,202.706,20,16
+2014,shanghai,Shanghai International Circuit,China,195.45,3,16
+2015,shanghai,Shanghai International Circuit,China,191.996,1,16
+2016,shanghai,Shanghai International Circuit,China,196.581,807,16
+2017,shanghai,Shanghai International Circuit,China,205.745,1,16
+2018,shanghai,Shanghai International Circuit,China,204.871,817,16
+2019,shanghai,Shanghai International Circuit,China,207.126,842,16
+2004,magny_cours,Circuit de Nevers Magny-Cours,France,210.669,30,9
+2005,magny_cours,Circuit de Nevers Magny-Cours,France,207.785,8,9
+2006,magny_cours,Circuit de Nevers Magny-Cours,France,205.931,30,9
+2007,magny_cours,Circuit de Nevers Magny-Cours,France,208.67,13,9
+2008,magny_cours,Circuit de Nevers Magny-Cours,France,207.224,8,9
+2018,ricard,Circuit Paul Ricard,France,223.201,822,9
+2019,ricard,Circuit Paul Ricard,France,226.775,20,9
+2021,ricard,Circuit Paul Ricard,France,218.156,830,9
+2022,ricard,Circuit Paul Ricard,France,219.575,832,9
+2004,hockenheimring,Hockenheimring,Germany,223.182,8,15
+2005,hockenheimring,Hockenheimring,Germany,219.924,8,15
+2006,hockenheimring,Hockenheimring,Germany,215.65,30,15
+2007,nurburgring,Nürburgring,Germany,199.592,13,15
+2008,hockenheimring,Hockenheimring,Germany,216.7,2,15
+2009,nurburgring,Nürburgring,Germany,198.498,4,15
+2010,hockenheimring,Hockenheimring,Germany,217.166,20,15
+2011,nurburgring,Nürburgring,Germany,196.526,1,15
+2012,hockenheimring,Hockenheimring,Germany,209.163,30,15
+2013,nurburgring,Nürburgring,Germany,198.279,4,15
+2014,hockenheimring,Hockenheimring,Germany,206.066,1,15
+2016,hockenheimring,Hockenheimring,Germany,209.918,817,15
+2018,hockenheimring,Hockenheimring,Germany,217.968,1,15
+2019,hockenheimring,Hockenheimring,Germany,214.839,830,15
+2020,nurburgring,Nürburgring,Germany,210.267,830,15
+2004,hungaroring,Hungaroring,Hungary,199.461,30,19
+2005,hungaroring,Hungaroring,Hungary,194.186,8,19
+2006,hungaroring,Hungaroring,Hungary,188.845,13,19
+2007,hungaroring,Hungaroring,Hungary,197.029,8,19
+2008,hungaroring,Hungaroring,Hungary,194.243,8,19
+2009,hungaroring,Hungaroring,Hungary,192.498,17,19
+2010,hungaroring,Hungaroring,Hungary,191.491,20,19
+2011,hungaroring,Hungaroring,Hungary,189.073,13,19
+2012,hungaroring,Hungaroring,Hungary,187.453,20,19
+2013,hungaroring,Hungaroring,Hungary,187.603,17,19
+2014,hungaroring,Hungaroring,Hungary,183.981,3,19
+2015,hungaroring,Hungaroring,Hungary,185.939,817,19
+2016,hungaroring,Hungaroring,Hungary,189.822,8,19
+2017,hungaroring,Hungaroring,Hungary,196.697,4,19
+2018,hungaroring,Hungaroring,Hungary,197.115,817,19
+2019,hungaroring,Hungaroring,Hungary,204.552,830,19
+2020,hungaroring,Hungaroring,Hungary,205.823,1,19
+2021,hungaroring,Hungaroring,Hungary,201.183,842,19
+2022,hungaroring,Hungaroring,Hungary,193.787,1,19
+2004,monza,Autodromo Nazionale di Monza,Italy,257.32,22,19
+2005,monza,Autodromo Nazionale di Monza,Italy,255.874,8,19
+2006,monza,Autodromo Nazionale di Monza,Italy,252.604,8,19
+2007,monza,Autodromo Nazionale di Monza,Italy,251.653,4,19
+2008,monza,Autodromo Nazionale di Monza,Italy,236.859,8,19
+2009,monza,Autodromo Nazionale di Monza,Italy,246.106,16,19
+2010,monza,Autodromo Nazionale di Monza,Italy,247.861,4,19
+2011,monza,Autodromo Nazionale di Monza,Italy,241.971,1,19
+2012,monza,Autodromo Nazionale di Monza,Italy,239.053,3,19
+2013,monza,Autodromo Nazionale di Monza,Italy,242.924,1,19
+2014,monza,Autodromo Nazionale di Monza,Italy,236.975,1,19
+2015,monza,Autodromo Nazionale di Monza,Italy,240.617,1,19
+2016,monza,Autodromo Nazionale di Monza,Italy,244.373,4,19
+2017,monza,Autodromo Nazionale di Monza,Italy,250.174,817,19
+2018,monza,Autodromo Nazionale di Monza,Italy,252.794,1,19
+2019,monza,Autodromo Nazionale di Monza,Italy,255.014,1,19
+2020,monza,Autodromo Nazionale di Monza,Italy,252.033,1,19
+2021,monza,Autodromo Nazionale di Monza,Italy,245.894,817,19
+2022,monza,Autodromo Nazionale di Monza,Italy,248.182,815,19
+2004,suzuka,Suzuka Circuit,Japan,225.441,22,17
+2005,suzuka,Suzuka Circuit,Japan,228.372,8,17
+2006,suzuka,Suzuka Circuit,Japan,225.572,4,17
+2007,fuji,Fuji Speedway,Japan,186.259,1,17
+2008,fuji,Fuji Speedway,Japan,209.456,13,17
+2009,suzuka,Suzuka Circuit,Japan,225.833,17,17
+2010,suzuka,Suzuka Circuit,Japan,223.647,17,17
+2011,suzuka,Suzuka Circuit,Japan,216.481,18,17
+2012,suzuka,Suzuka Circuit,Japan,218.276,20,17
+2013,suzuka,Suzuka Circuit,Japan,221.015,17,17
+2014,suzuka,Suzuka Circuit,Japan,187.322,1,17
+2015,suzuka,Suzuka Circuit,Japan,217.434,1,17
+2016,suzuka,Suzuka Circuit,Japan,219.781,20,17
+2017,suzuka,Suzuka Circuit,Japan,224.439,822,17
+2018,suzuka,Suzuka Circuit,Japan,226.447,20,17
+2019,suzuka,Suzuka Circuit,Japan,229.77,1,17
+2022,suzuka,Suzuka Circuit,Japan,200.22,855,17
+2004,sepang,Sepang International Circuit,Malaysia,211.782,31,14
+2005,sepang,Sepang International Circuit,Malaysia,208.987,8,14
+2006,sepang,Sepang International Circuit,Malaysia,210.487,4,14
+2007,sepang,Sepang International Circuit,Malaysia,206.355,1,14
+2008,sepang,Sepang International Circuit,Malaysia,209.244,2,14
+2009,sepang,Sepang International Circuit,Malaysia,206.483,18,14
+2010,sepang,Sepang International Circuit,Malaysia,205.605,17,14
+2011,sepang,Sepang International Circuit,Malaysia,198.415,17,14
+2012,sepang,Sepang International Circuit,Malaysia,198.117,8,14
+2013,sepang,Sepang International Circuit,Malaysia,201.159,815,14
+2014,sepang,Sepang International Circuit,Malaysia,193.611,1,14
+2015,sepang,Sepang International Circuit,Malaysia,195.516,3,14
+2016,sepang,Sepang International Circuit,Malaysia,206.948,3,14
+2017,sepang,Sepang International Circuit,Malaysia,212.104,20,14
+2004,monaco,Circuit de Monaco,Monaco,161.528,30,18
+2005,monaco,Circuit de Monaco,Monaco,158.54,30,18
+2006,monaco,Circuit de Monaco,Monaco,160.014,30,18
+2007,monaco,Circuit de Monaco,Monaco,159.715,4,18
+2008,monaco,Circuit de Monaco,Monaco,156.789,8,18
+2009,monaco,Circuit de Monaco,Monaco,159.991,13,18
+2010,monaco,Circuit de Monaco,Monaco,159.91,20,18
+2011,monaco,Circuit de Monaco,Monaco,157.724,17,18
+2012,monaco,Circuit de Monaco,Monaco,155.557,815,18
+2013,monaco,Circuit de Monaco,Monaco,157.018,20,18
+2014,monaco,Circuit de Monaco,Monaco,153.212,8,18
+2015,monaco,Circuit de Monaco,Monaco,153.891,817,18
+2016,monaco,Circuit de Monaco,Monaco,154.135,1,18
+2017,monaco,Circuit de Monaco,Monaco,160.561,815,18
+2018,monaco,Circuit de Monaco,Monaco,161.772,830,18
+2019,monaco,Circuit de Monaco,Monaco,161.73,842,18
+2021,monaco,Circuit de Monaco,Monaco,164.769,1,18
+2022,monaco,Circuit de Monaco,Monaco,160.834,846,18
+2004,catalunya,Circuit de Barcelona-Catalunya,Spain,215.07,30,19
+2005,catalunya,Circuit de Barcelona-Catalunya,Spain,220.213,21,19
+2006,catalunya,Circuit de Barcelona-Catalunya,Spain,217.32,13,19
+2007,catalunya,Circuit de Barcelona-Catalunya,Spain,202.685,13,19
+2008,catalunya,Circuit de Barcelona-Catalunya,Spain,205.191,8,19
+2009,catalunya,Circuit de Barcelona-Catalunya,Spain,202.484,22,19
+2010,catalunya,Circuit de Barcelona-Catalunya,Spain,198.655,1,19
+2011,catalunya,Circuit de Barcelona-Catalunya,Spain,193.227,1,19
+2012,catalunya,Circuit de Barcelona-Catalunya,Spain,194.295,154,19
+2013,catalunya,Circuit de Barcelona-Catalunya,Spain,194.37,821,19
+2014,catalunya,Circuit de Barcelona-Catalunya,Spain,188.465,20,19
+2015,catalunya,Circuit de Barcelona-Catalunya,Spain,189.849,1,19
+2016,catalunya,Circuit de Barcelona-Catalunya,Spain,192.735,826,19
+2017,catalunya,Circuit de Barcelona-Catalunya,Spain,200.471,1,19
+2018,catalunya,Circuit de Barcelona-Catalunya,Spain,213.638,817,19
+2019,catalunya,Circuit de Barcelona-Catalunya,Spain,213.499,1,19
+2020,catalunya,Circuit de Barcelona-Catalunya,Spain,214.343,822,19
+2021,catalunya,Circuit de Barcelona-Catalunya,Spain,215.357,830,19
+2022,catalunya,Circuit de Barcelona-Catalunya,Spain,200.099,815,19
+2004,silverstone,Silverstone Circuit,UK,235.049,30,19
+2005,silverstone,Silverstone Circuit,UK,229.902,8,19
+2006,silverstone,Silverstone Circuit,UK,226.811,4,19
+2007,silverstone,Silverstone Circuit,UK,229.514,8,19
+2008,silverstone,Silverstone Circuit,UK,200.842,8,19
+2009,silverstone,Silverstone Circuit,UK,229.238,20,19
+2010,silverstone,Silverstone Circuit,UK,233.373,4,19
+2011,silverstone,Silverstone Circuit,UK,223.454,4,19
+2012,silverstone,Silverstone Circuit,UK,224.037,8,19
+2013,silverstone,Silverstone Circuit,UK,227.059,17,19
+2014,silverstone,Silverstone Circuit,UK,218.239,1,19
+2015,silverstone,Silverstone Circuit,UK,218.425,1,19
+2016,silverstone,Silverstone Circuit,UK,221.957,3,19
+2017,silverstone,Silverstone Circuit,UK,234.025,1,19
+2018,silverstone,Silverstone Circuit,UK,233.831,20,19
+2019,silverstone,Silverstone Circuit,UK,242.735,1,19
+2020,silverstone,Silverstone Circuit,UK,243.494,830,19
+2021,silverstone,Silverstone Circuit,UK,239.317,815,19
+2022,silverstone,Silverstone Circuit,UK,234.312,1,19
+2004,indianapolis,Indianapolis Motor Speedway,USA,214.366,22,14
+2005,indianapolis,Indianapolis Motor Speedway,USA,211.074,30,14
+2006,indianapolis,Indianapolis Motor Speedway,USA,207.527,30,14
+2007,indianapolis,Indianapolis Motor Speedway,USA,206.397,8,14
+2012,americas,Circuit of the Americas,USA,199.772,20,14
+2013,americas,Circuit of the Americas,USA,198.754,20,14
+2014,americas,Circuit of the Americas,USA,195.768,20,14
+2015,americas,Circuit of the Americas,USA,197.154,3,14
+2016,americas,Circuit of the Americas,USA,198.712,20,14
+2017,americas,Circuit of the Americas,USA,203.003,20,14
+2018,americas,Circuit of the Americas,USA,203.782,1,14
+2019,americas,Circuit of the Americas,USA,206.374,844,14
+2021,americas,Circuit of the Americas,USA,201.521,1,14
+2022,miami,Miami International Autodrome,USA,213.255,830,14
+2005,istanbul,Istanbul Park,Turkey,226.693,31,9
+2006,istanbul,Istanbul Park,Turkey,218.36,30,9
+2007,istanbul,Istanbul Park,Turkey,220.136,8,9
+2008,istanbul,Istanbul Park,Turkey,222.144,8,9
+2009,istanbul,Istanbul Park,Turkey,219.422,18,9
+2010,istanbul,Istanbul Park,Turkey,215.519,808,9
+2011,istanbul,Istanbul Park,Turkey,214.226,17,9
+2020,istanbul,Istanbul Park,Turkey,198.508,846,9
+2021,istanbul,Istanbul Park,Turkey,212.5,822,9
+2008,marina_bay,Marina Bay Street Circuit,Singapore,172.74,8,13
+2009,marina_bay,Marina Bay Street Circuit,Singapore,168.725,4,13
+2010,marina_bay,Marina Bay Street Circuit,Singapore,169.137,4,13
+2011,marina_bay,Marina Bay Street Circuit,Singapore,168.392,18,13
+2012,marina_bay,Marina Bay Street Circuit,Singapore,164.48,807,13
+2013,marina_bay,Marina Bay Street Circuit,Singapore,167.94,20,13
+2014,marina_bay,Marina Bay Street Circuit,Singapore,165.137,1,13
+2015,marina_bay,Marina Bay Street Circuit,Singapore,165.701,817,13
+2016,marina_bay,Marina Bay Street Circuit,Singapore,170.113,817,13
+2017,marina_bay,Marina Bay Street Circuit,Singapore,173.643,1,13
+2018,marina_bay,Marina Bay Street Circuit,Singapore,178.86,825,13
+2019,marina_bay,Marina Bay Street Circuit,Singapore,178.168,825,13
+2022,marina_bay,Marina Bay Street Circuit,Singapore,171.211,847,13
+2009,yas_marina,Yas Marina Circuit,UAE,199.387,20,14
+2010,yas_marina,Yas Marina Circuit,UAE,197.428,1,14
+2011,yas_marina,Yas Marina Circuit,UAE,194.854,17,14
+2012,yas_marina,Yas Marina Circuit,UAE,192.32,20,14
+2013,yas_marina,Yas Marina Circuit,UAE,193.305,4,14
+2014,yas_marina,Yas Marina Circuit,UAE,191.341,817,14
+2015,yas_marina,Yas Marina Circuit,UAE,191.302,1,14
+2016,yas_marina,Yas Marina Circuit,UAE,192.756,20,14
+2017,yas_marina,Yas Marina Circuit,UAE,198.652,822,14
+2018,yas_marina,Yas Marina Circuit,UAE,198.225,20,14
+2019,yas_marina,Yas Marina Circuit,UAE,201.387,1,14
+2020,yas_marina,Yas Marina Circuit,UAE,198.109,817,14
+2021,yas_marina,Yas Marina Circuit,UAE,220.8,830,14
+2022,yas_marina,Yas Marina Circuit,UAE,215.085,846,14
+2010,yeongam,Korean International Circuit,Korea,183.335,4,4
+2011,yeongam,Korean International Circuit,Korea,202.941,20,4
+2012,yeongam,Korean International Circuit,Korea,198.104,17,4
+2013,yeongam,Korean International Circuit,Korea,199.388,20,4
+2011,buddh,Buddh International Circuit,India,211.463,20,3
+2012,buddh,Buddh International Circuit,India,209.176,18,3
+2013,buddh,Buddh International Circuit,India,210.426,8,3
+2014,red_bull_ring,Red Bull Ring,Austria,215.874,815,9
+2015,red_bull_ring,Red Bull Ring,Austria,218.622,3,9
+2016,red_bull_ring,Red Bull Ring,Austria,227.647,1,9
+2017,red_bull_ring,Red Bull Ring,Austria,230.597,1,9
+2018,red_bull_ring,Red Bull Ring,Austria,232.16,8,9
+2019,red_bull_ring,Red Bull Ring,Austria,230.378,830,9
+2020,red_bull_ring,Red Bull Ring,Austria,236.894,832,9
+2021,red_bull_ring,Red Bull Ring,Austria,234.815,830,9
+2022,red_bull_ring,Red Bull Ring,Austria,231.063,830,9
+2014,sochi,Sochi Autodrom,Russia,208.658,822,8
+2015,sochi,Sochi Autodrom,Russia,210.378,20,8
+2016,sochi,Sochi Autodrom,Russia,212.452,3,8
+2017,sochi,Sochi Autodrom,Russia,217.388,8,8
+2018,sochi,Sochi Autodrom,Russia,219.617,822,8
+2019,sochi,Sochi Autodrom,Russia,219.847,1,8
+2020,sochi,Sochi Autodrom,Russia,216.972,822,8
+2021,sochi,Sochi Autodrom,Russia,216.096,846,8
+2015,rodriguez,Autódromo Hermanos Rodríguez,Mexico,192.426,3,7
+2016,rodriguez,Autódromo Hermanos Rodríguez,Mexico,190.972,817,7
+2017,rodriguez,Autódromo Hermanos Rodríguez,Mexico,196.666,20,7
+2018,rodriguez,Autódromo Hermanos Rodríguez,Mexico,196.776,822,7
+2019,rodriguez,Autódromo Hermanos Rodríguez,Mexico,195.557,844,7
+2021,rodriguez,Autódromo Hermanos Rodríguez,Mexico,199.223,822,7
+2022,rodriguez,Autódromo Hermanos Rodríguez,Mexico,193.31,847,7
+2016,baku,Baku City Circuit,Azerbaijan,202.946,3,6
+2017,baku,Baku City Circuit,Azerbaijan,208.919,20,6
+2018,baku,Baku City Circuit,Azerbaijan,205.525,822,6
+2019,baku,Baku City Circuit,Azerbaijan,209.795,844,6
+2021,baku,Baku City Circuit,Azerbaijan,206.839,830,6
+2022,baku,Baku City Circuit,Azerbaijan,203.787,815,6
+2020,portimao,Autódromo Internacional do Algarve,Portugal,212.708,1,2
+2021,portimao,Autódromo Internacional do Algarve,Portugal,209.738,822,2
+2021,zandvoort,Circuit Park Zandvoort,Netherlands,215.654,1,2
+2022,zandvoort,Circuit Park Zandvoort,Netherlands,208.173,830,2
+2021,losail,Losail International Circuit,Qatar,232.799,830,1
+2021,jeddah,Jeddah Corniche Circuit,Saudi Arabia,244.962,1,2
+2022,jeddah,Jeddah Corniche Circuit,Saudi Arabia,242.556,844,2

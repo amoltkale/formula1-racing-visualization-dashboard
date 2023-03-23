@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!-- <button onclick="drawChart()">Cummulative Medals</button> -->
+<!-- Create div -->
+<div id="my_dataviz"></div>
+
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="index.js"></script>
+  <!-- <script src="button.js"></script> -->
+  <style>
+    text {
+      font-size: 16px;
+      font-family: Open Sans, sans-serif;
+    }
+
+    text.title {
+      font-size: 32px;
+      font-weight: 700;
+      fill: #dc0f0f;
+    }
+
+    text.subTitle {
+      font-weight: 400;
+      font-size: 13px;
+    }
+
+    text.caption {
+      font-weight: 600;
+      font-size: 30px;
+      fill: #dc0f0f;
+    }
+
+    text.label {
+      font-weight: 300;
+      font-size: 15px;
+    }
+
+    text.valueLabel {
+      font-weight: 300;
+      font-size: 15px;
+    }
+
+    text.yearText {
+      font-size: 64px;
+      font-weight: 700;
+      opacity: 0.50;
+    }
+
+    .tick text {
+      fill: #777777;
+    }
+
+    .xAxis .tick:nth-child(2) text {
+      text-anchor: start;
+    }
+
+    .tick line {
+      shape-rendering: CrispEdges;
+      stroke: #dddddd;
+    }
+
+    .tick line.origin {
+      stroke: #aaaaaa;
+    }
+
+    path.domain {
+      display: none;
+    }
+
+    /* .legend {
+      padding: 5px;
+      font: 10px sans-serif;
+      background: yellow;
+      box-shadow: 2px 2px 1px #888;
+    } */
+  </style>
+</head>
+
+<body>
+
+  <script>
+
+
+    var svg = d3.select("#my_dataviz")
+      //.select("body")
+      .append("svg")
+      .attr("width", 1300)
+      .attr("height", 600);
+
+    drawChart()
+
+  </script>
+</body>

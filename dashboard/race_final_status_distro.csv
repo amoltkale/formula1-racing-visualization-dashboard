@@ -1,0 +1,343 @@
+year,status,resultId
+1950,Accident,15
+1950,Car Fault,62
+1950,Finished,80
+1950,Other,3
+1951,Accident,10
+1951,Car Fault,76
+1951,Finished,90
+1951,Other,3
+1952,Accident,6
+1952,Car Fault,73
+1952,Disqualified,1
+1952,Finished,115
+1952,Other,20
+1953,Accident,17
+1953,Car Fault,103
+1953,Finished,117
+1953,Other,9
+1954,Accident,18
+1954,Car Fault,88
+1954,Disqualified,2
+1954,Finished,109
+1954,Other,13
+1955,Accident,19
+1955,Car Fault,67
+1955,Finished,84
+1955,Other,10
+1956,Accident,17
+1956,Car Fault,74
+1956,Disqualified,1
+1956,Finished,93
+1956,Other,5
+1957,Accident,17
+1957,Car Fault,59
+1957,Finished,89
+1957,Other,6
+1958,Accident,28
+1958,Car Fault,83
+1958,Disqualified,1
+1958,Finished,113
+1958,Other,16
+1959,Accident,19
+1959,Car Fault,65
+1959,Disqualified,1
+1959,Finished,94
+1959,Other,16
+1960,Accident,17
+1960,Car Fault,81
+1960,Disqualified,2
+1960,Finished,110
+1960,Other,13
+1961,Accident,12
+1961,Car Fault,65
+1961,Disqualified,2
+1961,Finished,108
+1961,Other,33
+1962,Accident,16
+1962,Car Fault,56
+1962,Finished,101
+1962,Other,50
+1963,Accident,15
+1963,Car Fault,84
+1963,Disqualified,1
+1963,Finished,100
+1963,Other,54
+1964,Accident,9
+1964,Car Fault,82
+1964,Disqualified,1
+1964,Finished,99
+1964,Other,16
+1965,Accident,4
+1965,Car Fault,75
+1965,Finished,106
+1965,Other,20
+1966,Accident,13
+1966,Car Fault,81
+1966,Disqualified,1
+1966,Finished,65
+1966,Other,6
+1967,Accident,8
+1967,Car Fault,98
+1967,Disqualified,1
+1967,Finished,93
+1967,Other,5
+1968,Accident,24
+1968,Car Fault,111
+1968,Finished,92
+1968,Other,6
+1969,Accident,11
+1969,Car Fault,79
+1969,Disqualified,1
+1969,Finished,84
+1969,Other,2
+1970,Accident,11
+1970,Car Fault,127
+1970,Finished,124
+1970,Other,32
+1971,Accident,21
+1971,Car Fault,98
+1971,Disqualified,4
+1971,Finished,134
+1971,Other,6
+1972,Accident,29
+1972,Car Fault,107
+1972,Disqualified,2
+1972,Finished,166
+1972,Other,5
+1973,Accident,39
+1973,Car Fault,126
+1973,Disqualified,1
+1973,Finished,187
+1973,Other,4
+1974,Accident,38
+1974,Car Fault,142
+1974,Disqualified,4
+1974,Finished,200
+1974,Other,52
+1975,Accident,58
+1975,Car Fault,105
+1975,Disqualified,1
+1975,Finished,176
+1975,Other,23
+1976,Accident,53
+1976,Car Fault,119
+1976,Disqualified,1
+1976,Finished,218
+1976,Other,43
+1977,Accident,70
+1977,Car Fault,129
+1977,Disqualified,2
+1977,Finished,202
+1977,Other,74
+1978,Accident,61
+1978,Car Fault,114
+1978,Disqualified,5
+1978,Finished,208
+1978,Other,83
+1979,Accident,50
+1979,Car Fault,138
+1979,Disqualified,2
+1979,Finished,166
+1979,Other,47
+1980,Accident,45
+1980,Car Fault,126
+1980,Finished,163
+1980,Other,49
+1981,Accident,66
+1981,Car Fault,116
+1981,Disqualified,2
+1981,Finished,171
+1981,Other,94
+1982,Accident,74
+1982,Car Fault,141
+1982,Disqualified,5
+1982,Finished,175
+1982,Other,70
+1983,Accident,40
+1983,Car Fault,155
+1983,Disqualified,6
+1983,Finished,182
+1983,Other,41
+1984,Accident,54
+1984,Car Fault,188
+1984,Disqualified,22
+1984,Finished,148
+1984,Other,18
+1985,Accident,50
+1985,Car Fault,175
+1985,Disqualified,2
+1985,Finished,168
+1985,Other,11
+1986,Accident,37
+1986,Car Fault,205
+1986,Disqualified,1
+1986,Finished,163
+1986,Other,6
+1987,Accident,36
+1987,Car Fault,194
+1987,Disqualified,3
+1987,Finished,176
+1987,Other,10
+1988,Accident,37
+1988,Car Fault,168
+1988,Disqualified,3
+1988,Finished,206
+1988,Other,81
+1989,Accident,69
+1989,Car Fault,156
+1989,Disqualified,9
+1989,Finished,183
+1989,Other,203
+1990,Accident,54
+1990,Car Fault,154
+1990,Disqualified,5
+1990,Finished,204
+1990,Other,125
+1991,Accident,52
+1991,Car Fault,157
+1991,Disqualified,1
+1991,Finished,206
+1991,Other,123
+1992,Accident,72
+1992,Car Fault,139
+1992,Disqualified,1
+1992,Finished,204
+1992,Other,62
+1993,Accident,87
+1993,Car Fault,121
+1993,Disqualified,1
+1993,Finished,193
+1993,Other,10
+1994,Accident,89
+1994,Car Fault,125
+1994,Disqualified,4
+1994,Finished,195
+1994,Other,31
+1995,Accident,77
+1995,Car Fault,131
+1995,Disqualified,1
+1995,Finished,207
+1995,Other,2
+1996,Accident,69
+1996,Car Fault,91
+1996,Disqualified,4
+1996,Finished,162
+1996,Other,14
+1997,Accident,67
+1997,Car Fault,98
+1997,Disqualified,2
+1997,Finished,206
+1997,Other,3
+1998,Accident,56
+1998,Car Fault,93
+1998,Disqualified,1
+1998,Finished,196
+1998,Other,3
+1999,Accident,53
+1999,Car Fault,115
+1999,Disqualified,2
+1999,Finished,180
+1999,Other,2
+2000,Accident,57
+2000,Car Fault,92
+2000,Disqualified,2
+2000,Finished,219
+2000,Other,3
+2001,Accident,46
+2001,Car Fault,109
+2001,Disqualified,1
+2001,Finished,217
+2001,Other,1
+2002,Accident,39
+2002,Car Fault,114
+2002,Disqualified,2
+2002,Finished,201
+2002,Other,6
+2003,Accident,29
+2003,Car Fault,82
+2003,Finished,209
+2004,Accident,35
+2004,Car Fault,62
+2004,Disqualified,5
+2004,Finished,258
+2005,Accident,31
+2005,Car Fault,49
+2005,Disqualified,4
+2005,Finished,276
+2005,Other,16
+2006,Accident,49
+2006,Car Fault,74
+2006,Disqualified,4
+2006,Finished,268
+2006,Other,1
+2007,Accident,42
+2007,Car Fault,55
+2007,Disqualified,2
+2007,Finished,271
+2007,Other,4
+2008,Accident,51
+2008,Car Fault,35
+2008,Disqualified,1
+2008,Finished,281
+2009,Accident,35
+2009,Car Fault,30
+2009,Disqualified,1
+2009,Finished,270
+2009,Other,4
+2010,Accident,44
+2010,Car Fault,71
+2010,Finished,338
+2010,Other,3
+2011,Accident,30
+2011,Car Fault,42
+2011,Disqualified,2
+2011,Finished,374
+2011,Other,8
+2012,Accident,46
+2012,Car Fault,36
+2012,Finished,389
+2012,Other,9
+2013,Accident,26
+2013,Car Fault,34
+2013,Finished,354
+2013,Other,4
+2014,Accident,24
+2014,Car Fault,51
+2014,Disqualified,1
+2014,Finished,321
+2014,Other,10
+2015,Accident,22
+2015,Car Fault,43
+2015,Finished,297
+2015,Other,16
+2016,Accident,28
+2016,Car Fault,44
+2016,Finished,378
+2016,Other,12
+2017,Accident,34
+2017,Car Fault,61
+2017,Finished,305
+2018,Accident,31
+2018,Car Fault,49
+2018,Disqualified,3
+2018,Finished,335
+2018,Other,2
+2019,Accident,25
+2019,Car Fault,30
+2019,Disqualified,2
+2019,Finished,360
+2019,Other,3
+2020,Accident,23
+2020,Car Fault,30
+2020,Finished,283
+2020,Other,4
+2021,Accident,29
+2021,Car Fault,25
+2021,Disqualified,1
+2021,Finished,381
+2021,Other,4
+2022,Accident,32
+2022,Car Fault,41
+2022,Finished,366
+2022,Other,1
