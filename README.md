@@ -2,6 +2,10 @@
 This is an attempt to show the Formula 1 Racing stats throughout history using Visualization.
 
 ### Instruction to Visualize the Graphs
+* Install all the required python packages
+```
+pip install -r requirments.txt
+```
 * D3JS
     * Run command on Terminal:  
         ```
@@ -27,6 +31,7 @@ This is an attempt to show the Formula 1 Racing stats throughout history using V
 ```
 .
 ├── README.md
+├── requirments.txt
 ├── archive
 │   └── *.csv
 ├── bar_chart_race
@@ -45,11 +50,13 @@ This is an attempt to show the Formula 1 Racing stats throughout history using V
     └── index.html
 ```
 * `archive` folder has all the raw data files  
+* `requirements` file shows the python modules to be installed.
 * `bar_chart_race`  
     * has processed data needed for bar chart race and data preparation python notebook with .ipynb extension.  
     * index.html and index.js D3js code.
 * `dashboard`  
     * has processed data needed for dashboard and data preparation python notebook with .ipynb extension.  
+    `config.ini` file has the access token for the MapBox map layer.
 * `streamgraph`  
     * has processed data needed for streamgraph and data preparation python notebook with .ipynb extension.  
     * index.html for D3js code.
